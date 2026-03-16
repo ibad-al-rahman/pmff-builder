@@ -1,6 +1,9 @@
+import { useState } from 'react';
 import { RuleGroupEditor } from './RuleGroupEditor';
+import { LogicPreviewModal } from './LogicPreviewModal';
 import { FLAG_TYPES } from '../types';
 import type { FeatureFlag, FlagType, LogicalGroup } from '../types';
+import { flagToLogicJs } from '../logic';
 
 interface FlagEditorProps {
   flagKey: string;
@@ -12,6 +15,7 @@ interface FlagEditorProps {
 
 export function FlagEditor({ flagKey, flag, onKeyChange, onKeyBlur, onChange }: FlagEditorProps) {
   const isKillSwitch = flag.type === 'kill_switch';
+  const [showLogic, setShowLogic] = useState(false);
 
   function handleTargetingToggle() {
     if (flag.targeting === null) {
@@ -22,8 +26,24 @@ export function FlagEditor({ flagKey, flag, onKeyChange, onKeyBlur, onChange }: 
   }
 
   return (
+    <>
+      {showLogic && (
+        <LogicPreviewModal
+          flagKey={flagKey}
+          code={flagToLogicJs(flagKey, flag)}
+          onClose={() => setShowLogic(false)}
+        />
+      )}
     <div className="flex flex-col gap-5 h-full overflow-y-auto p-5 bg-gray-950">
-      <h2 className="text-base font-semibold text-gray-200">Edit Flag</h2>
+      <div className="flex items-center justify-between">
+        <h2 className="text-base font-semibold text-gray-200">Edit Flag</h2>
+        <button
+          onClick={() => setShowLogic(true)}
+          className="text-xs px-3 py-1.5 bg-gray-800 border border-gray-700 text-gray-400 rounded hover:bg-gray-700 hover:text-gray-200 transition-colors font-mono"
+        >
+          {'{ }'} Logic
+        </button>
+      </div>
 
       {/* Kill switch banner removed */}
       {/* Flag Type */}
@@ -124,5 +144,6 @@ export function FlagEditor({ flagKey, flag, onKeyChange, onKeyBlur, onChange }: 
         )}
       </div>
     </div>
+    </>
   );
 }
