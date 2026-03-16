@@ -6,7 +6,7 @@ import type { FeatureFlag, FlagsState } from "./types";
 import { generateFlagKey, parseImport } from "./utils";
 
 function createDefaultFlag(): FeatureFlag {
-  return { enabled: true, description: "", targeting: null };
+  return { type: 'release', enabled: true, description: "", targeting: null };
 }
 
 export const App = () => {
@@ -102,7 +102,7 @@ export const App = () => {
   const flagsJson = { featureFlags: flags };
 
   return (
-    <div className="flex h-screen overflow-hidden bg-white text-gray-900 font-sans">
+    <div className="flex h-screen overflow-hidden bg-gray-950 text-gray-100 font-sans">
       {/* Sidebar */}
       <FlagSidebar
         flags={flags}
@@ -124,7 +124,7 @@ export const App = () => {
             onChange={handleFlagChange}
           />
         ) : (
-          <div className="flex items-center justify-center h-full text-gray-400 text-sm">
+          <div className="flex items-center justify-center h-full text-gray-500 text-sm">
             Select a flag to edit, or click{" "}
             <strong className="mx-1">+ Add</strong> to create one.
           </div>

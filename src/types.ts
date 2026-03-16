@@ -40,7 +40,15 @@ export function isLogicalGroup(rule: Rule): rule is LogicalGroup {
   return '$and' in rule || '$or' in rule;
 }
 
+export type FlagType = 'release' | 'kill_switch';
+
+export const FLAG_TYPES: { value: FlagType; label: string }[] = [
+  { value: 'release', label: 'Release' },
+  { value: 'kill_switch', label: 'Kill Switch' },
+];
+
 export interface FeatureFlag {
+  type: FlagType;
   enabled: boolean;
   description: string;
   targeting: LogicalGroup | null;

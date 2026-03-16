@@ -17,7 +17,7 @@ export function JsonPreview({ data }: JsonPreviewProps) {
   }
 
   return (
-    <div className="flex flex-col h-full border-l border-gray-200 bg-gray-900 min-w-0">
+    <div className="flex flex-col h-full border-l border-gray-800 bg-gray-900 min-w-0">
       <div className="flex items-center justify-between px-4 py-3 border-b border-gray-700">
         <h2 className="text-sm font-semibold text-gray-300 uppercase tracking-wide">Preview</h2>
         <div className="flex items-center gap-2">

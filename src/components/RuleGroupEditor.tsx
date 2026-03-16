@@ -12,10 +12,10 @@ interface RuleGroupEditorProps {
 }
 
 const DEPTH_COLORS = [
-  'border-indigo-300 bg-indigo-50',
-  'border-purple-300 bg-purple-50',
-  'border-teal-300 bg-teal-50',
-  'border-orange-300 bg-orange-50',
+  'border-indigo-800 bg-indigo-950',
+  'border-purple-800 bg-purple-950',
+  'border-teal-800 bg-teal-950',
+  'border-orange-800 bg-orange-950',
 ];
 
 function getOperator(group: LogicalGroup): GroupOperator {
@@ -80,11 +80,11 @@ export function RuleGroupEditor({
         >
           {operator === '$and' ? 'AND' : 'OR'}
         </button>
-        <span className="text-xs text-gray-400">All conditions in this group must match (AND) / any must match (OR)</span>
+        <span className="text-xs text-gray-500">All conditions in this group must match (AND) / any must match (OR)</span>
         {onDelete && (
           <button
             onClick={onDelete}
-            className="ml-auto text-gray-400 hover:text-red-500 transition-colors text-sm"
+            className="ml-auto text-gray-600 hover:text-red-400 transition-colors text-sm"
             title="Remove group"
           >
             ✕ group
@@ -95,7 +95,7 @@ export function RuleGroupEditor({
       {/* Rules */}
       <div className="flex flex-col gap-2 pl-2">
         {rules.length === 0 && (
-          <p className="text-xs text-gray-400 italic">No conditions yet. Add one below.</p>
+          <p className="text-xs text-gray-600 italic">No conditions yet. Add one below.</p>
         )}
         {rules.map((rule, index) => {
           if (isCondition(rule)) {
@@ -125,13 +125,13 @@ export function RuleGroupEditor({
       <div className="flex gap-2 pt-1">
         <button
           onClick={addCondition}
-          className="text-xs px-2.5 py-1 border border-gray-300 rounded hover:bg-gray-100 text-gray-600 transition-colors"
+          className="text-xs px-2.5 py-1 border border-gray-700 rounded hover:bg-gray-700 text-gray-400 transition-colors"
         >
           + Condition
         </button>
         <button
           onClick={addGroup}
-          className="text-xs px-2.5 py-1 border border-gray-300 rounded hover:bg-gray-100 text-gray-600 transition-colors"
+          className="text-xs px-2.5 py-1 border border-gray-700 rounded hover:bg-gray-700 text-gray-400 transition-colors"
         >
           + Group
         </button>

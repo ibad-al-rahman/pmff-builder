@@ -15,12 +15,12 @@ export function ConditionRow({ condition, onChange, onDelete }: ConditionRowProp
         value={condition.contextField}
         onChange={(e) => onChange({ ...condition, contextField: e.target.value })}
         placeholder="contextField"
-        className="flex-1 min-w-28 text-sm border border-gray-300 rounded px-2 py-1.5 font-mono focus:outline-none focus:ring-1 focus:ring-indigo-400"
+        className="flex-1 min-w-28 text-sm bg-gray-800 border border-gray-700 text-gray-100 rounded px-2 py-1.5 font-mono focus:outline-none focus:ring-1 focus:ring-indigo-500 placeholder-gray-600"
       />
       <select
         value={condition.operation}
         onChange={(e) => onChange({ ...condition, operation: e.target.value as Operation })}
-        className="text-sm border border-gray-300 rounded px-2 py-1.5 bg-white focus:outline-none focus:ring-1 focus:ring-indigo-400"
+        className="text-sm bg-gray-800 border border-gray-700 text-gray-100 rounded px-2 py-1.5 focus:outline-none focus:ring-1 focus:ring-indigo-500"
       >
         {OPERATIONS.map((op) => (
           <option key={op} value={op}>
@@ -33,11 +33,11 @@ export function ConditionRow({ condition, onChange, onDelete }: ConditionRowProp
         value={condition.value}
         onChange={(e) => onChange({ ...condition, value: e.target.value })}
         placeholder="value"
-        className="flex-1 min-w-28 text-sm border border-gray-300 rounded px-2 py-1.5 font-mono focus:outline-none focus:ring-1 focus:ring-indigo-400"
+        className="flex-1 min-w-28 text-sm bg-gray-800 border border-gray-700 text-gray-100 rounded px-2 py-1.5 font-mono focus:outline-none focus:ring-1 focus:ring-indigo-500 placeholder-gray-600"
       />
       <button
         onClick={onDelete}
-        className="text-gray-400 hover:text-red-500 transition-colors px-1"
+        className="text-gray-600 hover:text-red-400 transition-colors px-1"
         title="Remove condition"
       >
         ✕

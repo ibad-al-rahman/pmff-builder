@@ -40,5 +40,11 @@ export function parseImport(jsonText: string): FlagsJson {
   ) {
     throw new Error('File must contain a top-level "featureFlags" object.');
   }
-  return parsed as FlagsJson;
+  const result = parsed as FlagsJson;
+  // Ensure every imported flag has a type field (backwards compat)
+  for (const key of Object.keys(result.featureFlags)) {
+    const flag = result.featureFlags[key] as unknown as Record<string, unknown>;
+    if (!flag.type) flag.type = 'release';
+  }
+  return result;
 }
