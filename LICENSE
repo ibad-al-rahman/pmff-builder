@@ -1,271 +1,176 @@
-                              بسم الله الرّحمن الرّحيم
-                      In the name of Allah, Most Gracious, Most Merciful
-
-                         "Waqf" General Public License
-                               Version 2.0, 3 Muharram 1435
-
-========================================================================
-
-IMPORTANT NOTE
-
-This is the informal English translation of the Waqf General Public
-License. Anything but the Arabic version of the license has no value
-except for the convenience of English-speaking users. When we talk about
-the License we refer to the Arabic version, which is the only one we
-officially offer. We will try our best to make other translations as
-accurate as possible, but because of the nature of human languages we use
-one single reference language.
-
-========================================================================
-
-PREAMBLE
-
-This document is the controlling agreement for the use of the material
-covered by it, as it is considered to be the contract signed between the
-publisher and the beneficiary — as each contract has its own rules and
-conditions. We see that monopolistic agreements not only restrict the
-beneficiary but affect the value of intellectual work, turning it from a
-light into a mere commodity, where the intellectual property right is
-owned by the first intellectual depositor. Our vision for this property is
-limited to the moral form of the intellectual work itself in accordance
-with the rules below, unlike the monopoly licenses that place unfair
-restrictions that keep the second party weak and encouraged to violate
-them as much as possible.
-
-We have a different vision: we offer our work (like computer software) to
-please Allah, and this is the pillar of this license which distinguishes
-it from proprietary licenses. Any other intention (like spreading knowledge
-or getting profits) should be accomplished in ways that do not go against
-our primary moral aim.
-
-According to our beliefs (which we don't enforce on anyone, and you may or
-may not share with us) that Islam certainly forbids monopoly and concealing
-knowledge in general, and this comes from:
-
-1.  The sound Hadith (saying of prophet Muhammad PBUH): "Who conceal any
-    type of knowledge will be bridle with a bridle of fire on the Day of
-    Resurrection." [1]
-
-2.  Islamic Jurisprudence has specified what can be owned, and the rules
-    do not apply to ideas as it is not a bounded tangible object. Almost
-    all the terms of proprietary agreements fall under the ruling of
-    forbidden Gharar [2] (a kind of fraud that uses uncertainty to fool
-    customers) as described in Imam Muslim Sahih {and below that term we
-    classify so many actions like selling negligible objects or unknowns
-    or what can't be delivered or things that are not fully owned by the
-    seller}. Such view is also shared by the four major scholars.
-
-3.  The laws of Fiqh (Islamic Jurisprudence) have been perfected in the
-    good centuries and no new rulings are allowed to be brought except
-    for newly discovered things. This does not apply to ideas as they did
-    exist in the past centuries and Muslims massively spread them without
-    owning them. (Note: Almost all the Islamic literature is freely
-    available on the internet.)
-
-4.  Concealing useful knowledge from those who need it imposes damage on
-    people for temporal gains to few individuals. This cannot be
-    justified by Shari'a (Islamic Law) as there should be no harm nor
-    malice.
-
-5.  Even bringing interests to software publishers is not a valid excuse,
-    because there are companies that produce and publish software without
-    owning them (proprietary software) and yet gain profits.
-
-6.  The so-called "Intellectual Property" is all about giving owners the
-    right to forbid what Allah had made lawful in order to gain money,
-    not by providing service nor goods. For the "owned" product is of
-    uncertain and intangible nature and claiming its ownership opens the
-    door for extortion.
-
-We in Waqf (as in many anti-monopoly licenses) are concerned with the
-interest of the general public over its counterpart of those who glorify
-self-interest. We do not lose sight of the holder's interest in the reward
-of Allah Almighty. We believe that the copyright and distribution are
-"granted" and not "reserved" as stated in the terms below. We stop here
-to clarify two points:
-
-First: The favor and ethical rights of the holder are preserved and
-acknowledged.
-
-Second: The original author and any other party have the right to get
-fees for enhancing the work, developing it, or providing paid
-services or paid courses, etc. — but not for the work in its
-intangible form. There is no contradiction between getting fees
-for services because what is covered by "Waqf" is the source
-form of the work, not the media nor the service. (In the same
-way one can take fees on shipping fruits from a charitable Waqf
-fruit field, or make juice from it.)
-
-========================================================================
-
-DEFINITIONS
-
-The following terms shall have the corresponding meanings in this license:
-
-"The intellectual work" (or "The work"): is any useful intangible
-intellectual product that can be passed on to others or replicated at
-no cost imposed on the original author or the one who passes it on
-before — which is the endowment.
-
-"The holder": is the creative author or the party which carried out the
-process of developing the work and making it available (and the one who
-holds the copyrights on the product before the governmental offices),
-which is the endower. He/she must have the right and capacity to approve
-the endowment at the time of publication.
-
-"The licensee" or "The user": any one or party who uses the work, which
-is the endowed.
-
-"The license": this agreement (the Arabic version of "Waqf") between the
-two parties (the holder and the user) covering the usage of the second
-party on the work provided by the first party. Usage of the product is
-in accordance with the terms of this license. Because of the intangible
-nature of the work, this agreement applies by using the product (in any
-way) without signing the agreement. One who does not accept the terms
-loses the rights given by this license and his/her usage of the work is
-considered illegal.
-
-========================================================================
-
-TERMS AND CONDITIONS
-
-Waqf General Public License (or "Waqf" for short) covers intellectual
-works (including but not limited to software, paper publications,
-scientific theses, and art works) and shares many common features with
-FLOSS licenses. Waqf is distinguished by its moral intentions behind the
-work and usage limits.
-
-As the name suggests, with "Waqf" [3] the holder announces that his/her
-work was produced and made available to the public for the sake of Allah,
-aimed to please Allah by providing people with useful works. It is a form
-of "Sadaqa Jariah" [4].
-
-"Waqf" gives users (regardless of their nationality, color, race, or
-religion) the right to benefit from the work through running, copying,
-redistribution, or developing it — subject to the following conditions:
-
----
-
-1. PREAMBLE
-
----
-
-All of the above-mentioned preamble, definitions, and terms preamble are
-considered an integral part of this license.
-
----
-
-2. USAGE
-
----
-
-The user is entitled to use the work for any purpose. The holder advises
-not to use the work in harming others or in violation of the permissive
-principles of Islam [5]. The holder is not responsible for the user's
-violations of Islamic law or abuse of others in the use of the work.
-
----
-
-3. COVERAGE
-
----
-
-Waqf license can cover works published under other licenses that do not
-conflict with it. Waqf can also cover the parts that complement the work
-of other licenses, or works that have been exonerated by domestic laws
-because of the expiry of their period. Waqf does not cover works which
-are harmful or most likely to be harmful.
-
----
-
-4. TIME LIMIT
-
----
-
-Waqf license is not subject to a time limit. The publication of work
-licensed under Waqf does not end after a certain period. The date of each
-use of the work is considered a new date for signing the agreement — that
-is, a new publication date and a new publication acceptance date — so
-whatever the maximum duration of intellectual property under domestic law
-is ruled out, because each use of the work restarts this period from the
-beginning.
-
----
-
-5. REDISTRIBUTION
-
----
-
-The user has the right to redistribute the unmodified work in any quantity
-to any third party under the terms of this license, acknowledging the
-favor and ethical rights of the holder to the third party.
-
----
-
-6. MODIFICATIONS
-
----
-
-The user has the right to obtain the source form of the work and make
-modifications enhancing or adapting it to the user's needs, within the
-limits given by this license.
-
----
-
-7. REDISTRIBUTION OF MODIFICATIONS
-
----
-
-The user may redistribute modifications only under this license, provided
-that he/she clearly points to the previous original work (the unmodified
-work), its author, and the nature of the modification to the third party
-to whom the modified work is presented — in a way that no one may
-reasonably confuse it with the original unmodified work of the previous
-author.
-
----
-
-8. DISCLAIMER OF WARRANTY AND LIABILITY
-
----
-
-The holder does not take any legal nor moral, direct or indirect,
-responsibility or liability for the good or bad usage of or damages caused
-by the work, to the farthest extent allowed by law.
-
-THIS WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT
-SHALL THE HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT
-OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE
-WORK.
-
-The entire responsibility is on the user; the only warranty given to the
-user is access to the source form of the work.
-
-========================================================================
-
-FOOTNOTES
-
-[1] This is an authentic sound (Sahih) Hadith narrated by Imam Ahmad, Abu
-Dawood, Al-Tirmithi, and Ibn Majah. Refer to "Hoisting the Lighthouse:
-A Synopsis of the Various Narrations of the Hadith: Whoever Conceals
-Knowledge, Allah will Bridle Him with a Bridle of Fire", or in Arabic:
-"رفع المنار بطرق حديث من كتم علماً ألجمه الله بلجام من نار".
-
-[2] Some information about Gharar is available at:
-http://www.investopedia.com/terms/g/gharar.asp
-
-[3] The name Waqf means to prevent the source or assets from being
-consumed while giving away the proceeds for charity.
-
-[4] Sadaqa Jariah means sustainable charity — a kind of charity that
-continues to be beneficial to people even after the death of the one
-who gave it, like giving the fruits of a field but not the field
-itself. Prophet Muhammad (PBUH) specifically named useful knowledge as
-a form of this kind of charity.
-
-[5] Some scholars use the term Maqasid Al-Sharia and summarize them by
-saying that it aims to protect people's rights in religion, lives,
-sanity, lineage, and properties.
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1.  Definitions.
+
+    "License" shall mean the terms and conditions for use, reproduction,
+    and distribution as defined by Sections 1 through 9 of this document.
+
+    "Licensor" shall mean the copyright owner or entity authorized by
+    the copyright owner that is granting the License.
+
+    "Legal Entity" shall mean the union of the acting entity and all
+    other entities that control, are controlled by, or are under common
+    control with that entity. For the purposes of this definition,
+    "control" means (i) the power, direct or indirect, to cause the
+    direction or management of such entity, whether by contract or
+    otherwise, or (ii) ownership of fifty percent (50%) or more of the
+    outstanding shares, or (iii) beneficial ownership of such entity.
+
+    "You" (or "Your") shall mean an individual or Legal Entity
+    exercising permissions granted by this License.
+
+    "Source" form shall mean the preferred form for making modifications,
+    including but not limited to software source code, documentation
+    source, and configuration files.
+
+    "Object" form shall mean any form resulting from mechanical
+    transformation or translation of a Source form, including but
+    not limited to compiled object code, generated documentation,
+    and conversions to other media types.
+
+    "Work" shall mean the work of authorship, whether in Source or
+    Object form, made available under the License, as indicated by a
+    copyright notice that is included in or attached to the work
+    (an example is provided in the Appendix below).
+
+    "Derivative Works" shall mean any work, whether in Source or Object
+    form, that is based on (or derived from) the Work and for which the
+    editorial revisions, annotations, elaborations, or other modifications
+    represent, as a whole, an original work of authorship. For the purposes
+    of this License, Derivative Works shall not include works that remain
+    separable from, or merely link (or bind by name) to the interfaces of,
+    the Work and Derivative Works thereof.
+
+    "Contribution" shall mean any work of authorship, including
+    the original version of the Work and any modifications or additions
+    to that Work or Derivative Works thereof, that is intentionally
+    submitted to Licensor for inclusion in the Work by the copyright owner
+    or by an individual or Legal Entity authorized to submit on behalf of
+    the copyright owner. For the purposes of this definition, "submitted"
+    means any form of electronic, verbal, or written communication sent
+    to the Licensor or its representatives, including but not limited to
+    communication on electronic mailing lists, source code control systems,
+    and issue tracking systems that are managed by, or on behalf of, the
+    Licensor for the purpose of discussing and improving the Work, but
+    excluding communication that is conspicuously marked or otherwise
+    designated in writing by the copyright owner as "Not a Contribution."
+
+    "Contributor" shall mean Licensor and any individual or Legal Entity
+    on behalf of whom a Contribution has been received by Licensor and
+    subsequently incorporated within the Work.
+
+2.  Grant of Copyright License. Subject to the terms and conditions of
+    this License, each Contributor hereby grants to You a perpetual,
+    worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+    copyright license to reproduce, prepare Derivative Works of,
+    publicly display, publicly perform, sublicense, and distribute the
+    Work and such Derivative Works in Source or Object form.
+
+3.  Grant of Patent License. Subject to the terms and conditions of
+    this License, each Contributor hereby grants to You a perpetual,
+    worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+    (except as stated in this section) patent license to make, have made,
+    use, offer to sell, sell, import, and otherwise transfer the Work,
+    where such license applies only to those patent claims licensable
+    by such Contributor that are necessarily infringed by their
+    Contribution(s) alone or by combination of their Contribution(s)
+    with the Work to which such Contribution(s) was submitted. If You
+    institute patent litigation against any entity (including a
+    cross-claim or counterclaim in a lawsuit) alleging that the Work
+    or a Contribution incorporated within the Work constitutes direct
+    or contributory patent infringement, then any patent licenses
+    granted to You under this License for that Work shall terminate
+    as of the date such litigation is filed.
+
+4.  Redistribution. You may reproduce and distribute copies of the
+    Work or Derivative Works thereof in any medium, with or without
+    modifications, and in Source or Object form, provided that You
+    meet the following conditions:
+
+    (a) You must give any other recipients of the Work or
+    Derivative Works a copy of this License; and
+
+    (b) You must cause any modified files to carry prominent notices
+    stating that You changed the files; and
+
+    (c) You must retain, in the Source form of any Derivative Works
+    that You distribute, all copyright, patent, trademark, and
+    attribution notices from the Source form of the Work,
+    excluding those notices that do not pertain to any part of
+    the Derivative Works; and
+
+    (d) If the Work includes a "NOTICE" text file as part of its
+    distribution, then any Derivative Works that You distribute must
+    include a readable copy of the attribution notices contained
+    within such NOTICE file, excluding those notices that do not
+    pertain to any part of the Derivative Works, in at least one
+    of the following places: within a NOTICE text file distributed
+    as part of the Derivative Works; within the Source form or
+    documentation, if provided along with the Derivative Works; or,
+    within a display generated by the Derivative Works, if and
+    wherever such third-party notices normally appear. The contents
+    of the NOTICE file are for informational purposes only and
+    do not modify the License. You may add Your own attribution
+    notices within Derivative Works that You distribute, alongside
+    or as an addendum to the NOTICE text from the Work, provided
+    that such additional attribution notices cannot be construed
+    as modifying the License.
+
+    You may add Your own copyright statement to Your modifications and
+    may provide additional or different license terms and conditions
+    for use, reproduction, or distribution of Your modifications, or
+    for any such Derivative Works as a whole, provided Your use,
+    reproduction, and distribution of the Work otherwise complies with
+    the conditions stated in this License.
+
+5.  Submission of Contributions. Unless You explicitly state otherwise,
+    any Contribution intentionally submitted for inclusion in the Work
+    by You to the Licensor shall be under the terms and conditions of
+    this License, without any additional terms or conditions.
+    Notwithstanding the above, nothing herein shall supersede or modify
+    the terms of any separate license agreement you may have executed
+    with Licensor regarding such Contributions.
+
+6.  Trademarks. This License does not grant permission to use the trade
+    names, trademarks, service marks, or product names of the Licensor,
+    except as required for reasonable and customary use in describing the
+    origin of the Work and reproducing the content of the NOTICE file.
+
+7.  Disclaimer of Warranty. Unless required by applicable law or
+    agreed to in writing, Licensor provides the Work (and each
+    Contributor provides its Contributions) on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+    implied, including, without limitation, any warranties or conditions
+    of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+    PARTICULAR PURPOSE. You are solely responsible for determining the
+    appropriateness of using or redistributing the Work and assume any
+    risks associated with Your exercise of permissions under this License.
+
+8.  Limitation of Liability. In no event and under no legal theory,
+    whether in tort (including negligence), contract, or otherwise,
+    unless required by applicable law (such as deliberate and grossly
+    negligent acts) or agreed to in writing, shall any Contributor be
+    liable to You for damages, including any direct, indirect, special,
+    incidental, or consequential damages of any character arising as a
+    result of this License or out of the use or inability to use the
+    Work (including but not limited to damages for loss of goodwill,
+    work stoppage, computer failure or malfunction, or any and all
+    other commercial damages or losses), even if such Contributor
+    has been advised of the possibility of such damages.
+
+9.  Accepting Warranty or Additional Liability. While redistributing
+    the Work or Derivative Works thereof, You may choose to offer,
+    and charge a fee for, acceptance of support, warranty, indemnity,
+    or other liability obligations and/or rights consistent with this
+    License. However, in accepting such obligations, You may act only
+    on Your own behalf and on Your sole responsibility, not on behalf
+    of any other Contributor, and only if You agree to indemnify,
+    defend, and hold each Contributor harmless for any liability
+    incurred by, or claims asserted against, such Contributor by reason
+    of your accepting any such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS
