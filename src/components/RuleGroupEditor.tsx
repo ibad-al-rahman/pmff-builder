@@ -80,7 +80,7 @@ export function RuleGroupEditor({
         >
           {operator === '$and' ? 'AND' : 'OR'}
         </button>
-        <span className="text-xs text-gray-500">All conditions in this group must match (AND) / any must match (OR)</span>
+        <span className="hidden sm:inline text-xs text-gray-500">All conditions in this group must match (AND) / any must match (OR)</span>
         {onDelete && (
           <button
             onClick={onDelete}

@@ -15,7 +15,7 @@ export function FlagSidebar({ flags, selectedKey, onSelect, onAdd, onDelete, onU
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   return (
-    <aside className="flex flex-col w-64 min-w-48 bg-gray-900 border-r border-gray-700 h-full">
+    <aside className="flex flex-col w-full md:w-64 md:min-w-48 bg-gray-900 border-r border-gray-700 h-full">
       <div className="flex items-center justify-between px-4 py-3 border-b border-gray-700">
         <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wide">Flags</h2>
         <div className="flex items-center gap-1.5">

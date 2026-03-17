@@ -49,7 +49,7 @@ export function FlagEditor({ flagKey, flag, onKeyChange, onKeyBlur, onChange }: 
       {/* Flag Type */}
       <div className="flex flex-col gap-1">
         <label className="text-xs font-medium text-gray-500 uppercase tracking-wide">Type</label>
-        <div className="flex gap-2">
+        <div className="flex flex-wrap gap-2">
           {FLAG_TYPES.map(({ value, label }) => (
             <button
               key={value}
